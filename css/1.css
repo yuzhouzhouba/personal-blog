@@ -1,0 +1,16 @@
+body{  background-color: lightgrey;  font-family:"Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu;  }
+a{text-decoration:none; color:black;}
+#kong{width: 700px; height: 50px;background-color: lightgrey}
+#box{  width: 700px;  height: 170px;  margin-left: auto;  margin-right: auto; padding: 30px; background-color: white }
+.logo img{height: 100px; width: 100px;}
+.self{float: left}
+.sidelist {  list-style:none  }
+.sidelist li {  float: left;  padding: 5px;  }
+
+
+.post img{width: 660px;height: auto;text-align: center}
+#core { width: 700px; height: auto;  margin-left: auto;  margin-right: auto; padding: 30px; background-color: white}
+.post{padding: 20px;}
+
+#comment{}
+#comment textarea{width: 100%; height: 60px;}
